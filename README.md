@@ -43,11 +43,11 @@ cd Scripts  입력 하신후 엔터
  
 위에 받은 파일을 탐색기  brightics-studio\lib\python\Scripts 로 복사 또는 이동 시켜주세요.
  
-pip install numpy-1.18.5+mkl-cp36-cp36m-win_amd64.whl
-pip install scipy-1.5.2-cp36-cp36m-win_amd64.whl
-pip install numexpr-2.7.2-cp36-cp36m-win_amd64.whl
-pip install patsy-0.5.1-py2.py3-none-any.whl
-pip install statsmodels-0.12.0-cp36-cp36m-win_amd64.whl
+pip install numpy-1.18.5+mkl-cp36-cp36m-win_amd64.whl </br>
+pip install scipy-1.5.2-cp36-cp36m-win_amd64.whl </br>
+pip install numexpr-2.7.2-cp36-cp36m-win_amd64.whl </br>
+pip install patsy-0.5.1-py2.py3-none-any.whl </br>
+pip install statsmodels-0.12.0-cp36-cp36m-win_amd64.whl </br>
  
 이후 다시 Brightics Studio 를 실행해서 모델 실행을 하면 됩니다. 
 
