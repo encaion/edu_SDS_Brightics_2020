@@ -37,12 +37,19 @@ https://download.lfd.uci.edu/pythonlibs/w3jqiv8s/statsmodels-0.12.0-cp36-cp36m-w
 탐색기 여시고 brightics-studio 설치된 곳 이동해서 하위 lib => python 으로 이동  한뒤, 경로를 ctrl + c 로 카피 합니다.
  
 cmd창에서  
+
 cd  오른쪽 마우스 버튼 클릭해서 붙여넣기 => 엔터 
+
 python.exe get-pip.py   입력 하신후 엔터 
+
 cd Scripts  입력 하신후 엔터
- 
+
+cmd 창은 닫지 말아주세요. 
+
 위에 받은 파일을 탐색기  brightics-studio\lib\python\Scripts 로 복사 또는 이동 시켜주세요.
- 
+
+이후 아래 명령어를 cmd 창에서 실행해주세요. 
+
 pip install numpy-1.18.5+mkl-cp36-cp36m-win_amd64.whl </br>
 pip install scipy-1.5.2-cp36-cp36m-win_amd64.whl </br>
 pip install numexpr-2.7.2-cp36-cp36m-win_amd64.whl </br>
