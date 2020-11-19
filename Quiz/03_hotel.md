@@ -1,11 +1,11 @@
 ## 'hotel_booking_train_1m.csv' 데이터를 사용하여 다음의 분석을 실시하시오
 (수치형 변수 [orig_destination_distance], [srch_adults_cnt], [srch_children_cnt], [srch_rm_cnt], [cnt] 를 제외한 나머지 변수는 전부 문자형으로 설정한다.) 
 
-### 1. 데이터에 존재하는 결측치 개수의 총합은 얼마인가?
+### 1. 각  존재하는 결측치 개수의 총합은 얼마인가?
+ ※ 날짜 관련 변수에도 null이 아닌 결측치로 의심되는 데이터가 있다.
 
 ### 2. 결측치가 존재하는 행(row)를 전부 제거하시오.
- ※ 날짜 관련 변수에도 null이 아닌 결측치로 의심되는 데이터가 있다.
- ※ 본 문제의 결과를 base table 로 정의 한다.)
+ ※ 본 문제의 결과를 base table 로 정의 한다.
 
 ### 3. base table을 기준으로 접속 사이트[site_name]의 개수와 유입 경로[channel] 개수가 각각 몇 개인지 차례대로 기술하시오.
 
