@@ -31,6 +31,12 @@
 - https://download.lfd.uci.edu/pythonlibs/w3jqiv8s/patsy-0.5.1-py2.py3-none-any.whl
 - https://download.lfd.uci.edu/pythonlibs/w3jqiv8s/statsmodels-0.12.0-cp36-cp36m-win_amd64.whl
 
+- https://pypi.lcsb.uni.lu/packages/dc/18/e69ef84530360c2d39db51acb4cc0012990f27fb1fa7542dac45ad30e7ab/numpy-1.18.5-cp36-cp36m-win_amd64.whl#sha256=b03b2c0badeb606d1232e5f78852c102c0a7989d3a534b3129e7856a52f3d161
+- https://pypi.lcsb.uni.lu/packages/fc/f6/3d455f8b376a0faf1081dbba38bbd594c074292bdec08feaac589f53bc06/scipy-1.5.2-cp36-cp36m-win_amd64.whl#sha256=8e28e74b97fc8d6aa0454989db3b5d36fc27e69cef39a7ee5eaf8174ca1123cb
+- https://pypi.lcsb.uni.lu/packages/6c/6b/44a9ddee4cdb260be71a2900b8a961897c13620bad6f4770b47dd7b32bf1/numexpr-2.7.1-cp36-none-win_amd64.whl#sha256=57d9ccd0820b7f5b1bed5100dd54a5ae52c39eb5b7e54317ae29e31ed9bd9edf
+- https://pypi.lcsb.uni.lu/packages/ea/0c/5f61f1a3d4385d6bf83b83ea495068857ff8dfb89e74824c6e9eb63286d8/patsy-0.5.1-py2.py3-none-any.whl#sha256=5465be1c0e670c3a965355ec09e9a502bf2c4cbe4875e8528b0221190a8a5d40
+- https://pypi.lcsb.uni.lu/packages/d8/f5/b2aaa505b2e8f43668c0a067dd9ebf83032648f451b1bad7f769c4a1c085/statsmodels-0.12.0rc0-cp36-none-win_amd64.whl#sha256=3b8f64699864e0fcb459e210a88ccabf7523fc8ac8a6f8a197db753e4bd11b69
+
 ## 패치 방법
 
 ### 1. 윈도 CMD 창 열기
